@@ -69,17 +69,14 @@
 
 [![Natural Language & AI-Powered SQL Query Generator](Screenshot 2025-02-22%140140.png)](https://drive.google.com/file/d/1qBdIHUEEDyZwK-ZoH_KMdRMMQGjL10i8/view?usp=sharing)
 
-
-There are many AI assistants available, but none truly met my needs, so I built Syra AI. I want to create an assistant so smart and interactive that it'll be the last one you ever need—I think this is it.
-
 Here's why:
 
-* Syra AI responds in real time with natural conversation.
-* It features a wake word activation and smooth visual animations.
-* It integrates speech recognition, text-to-speech, and AI-powered responses.
-* Another great feature is that it can open Files and Apps as per your need in your prompts.
-* Of course, one AI assistant can't suit everyone’s needs. So, I’ll keep improving it! You can suggest changes by forking this repo and opening a pull request or issue. Thanks to everyone contributing to Syra AI’s future!
-
+*AI-Powered SQL Query Assistant – Interacts in real time to help you generate, optimize, and execute SQL queries.
+*Seamless Natural Language Processing – Converts user queries into structured SQL statements effortlessly.
+*Streamlit-Powered Web Interface – Provides an intuitive and interactive experience for writing and testing SQL queries.
+*Instant Query Execution – Runs queries on the provided dataset and returns results efficiently.
+*Customizable and Extendable – You can modify the AI prompt structure or integrate with different databases.
+*Open Source and Community-Driven – Contributions are welcome! Fork the repo, suggest features, or report issues to improve it further.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

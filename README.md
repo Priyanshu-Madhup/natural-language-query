@@ -88,11 +88,14 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* Tkinter
+* Streamlit
 * Gemini API
-* Llama 3.2:1b (open source model)
-* Llama3.2:3b (open source model)
-* Gemma:2b (open source model)
+
+### Help used
+
+* ChatGPT
+* Gemini
+* Github CoPilot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,61 +107,25 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-* Python 3.8 or later
-* pip for package management
-* pyaudio for microphone input
-* speechrecognition for voice commands
-* gTTS or pyttsx3 for text-to-speech
-* OpenCV for animations (optional)
-
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free Gemini API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
-2. Get a free OpenWeather API Key at [https://openweathermap.org/api](https://openweathermap.org/api)
-3. Clone the repo
+2. Clone the repo
    ```sh
-   git clone https://github.com/priyanshu-madhup/desktop-voice-assistant.git
+   git clone https://github.com/priyanshu-madhup/natural-language-query.git
    ```
-4. Install important packages
+3. Install important packages
    ```sh
-   pip install pygame
+   pip install streamlit
    ```
-   ```sh
-   pip install sounddevice
-   ```
-   ```sh
-   pip install speech_recognition
-   ```
-   ```sh
-   pip install ollama
-   ```
-   ```sh
-   pip install webbrowser
-   ```
-   ```sh
-   pip install geopy
-   ```
-5. Enter your Gemini API in the code
+ 
+4. Enter your Gemini API in the code
    ```js
    Gemini API_KEY = 'ENTER YOUR API';
    ```
-6. Enter your OpenWeather API in the code
-   ```js
-   OpenWeather API_KEY = 'ENTER YOUR API';
-   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Syra AI is an intelligent desktop assistant that leverages advanced natural language processing to provide a seamless user experience. Integrated with a weather API, it can provide real-time weather updates, ensuring users stay informed. Additionally, Syra AI can open files and applications based on user commands, making it a versatile productivity tool. With its intuitive design and powerful backend, Syra AI is the perfect companion for anyone looking to simplify their daily tasks and access information effortlessly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,8 +146,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/priyanshu-madhup/desktop-voice-assistant/contributors">
-  <img src="https://contrib.rocks/image?repo=priyanshu-madhup/desktop-voice-assistant" alt="contrib.rocks image" />
+<a href="https://github.com/Priyanshu-Madhup/natural-language-query">
+  <img src="https://contrib.rocks/image?repo=priyanshu-madhup/natural-language-query" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -201,7 +168,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Your Name - [@PriyanshuMadhup](https://twitter.com/PriyanshuMadhup) - priyanshumadhup@hotmail.com
 
-Project Link: [https://github.com/priyanshu-madhup/desktop-voice-assistant](https://github.com/priyanshu-madhup/desktop-voice-assistant)
+Project Link: [https://github.com/priyanshu-madhup/desktop-voice-assistant](https://github.com/priyanshu-madhup/natural-language-query)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -24,15 +24,15 @@
     <img src="sql_logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Syra : The desktop personal voice assistant</h3>
+  <h3 align="center">Natural Language & AI-Powered SQL Query Generator</h3>
 
   <p align="center">
-    An amazing AI to enhance your productivity by doing your simple jobs on spot!
+    An amazing AI to enhance your productivity by doing your simple queries on spot!
     <br />
-    <a href="https://github.com/Priyanshu-Madhup/desktop-voice-assistant"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Priyanshu-Madhup/natural-language-query"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1u_LbkzIIKXADKVfappuvMp1ZBPXDKkxe/view?usp=sharing">View Demo</a>
+    <a href="#">View Demo</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Syra Ai Screen Shot](Screenshot%202025-02-09%20170803.png)](https://drive.google.com/file/d/1qBdIHUEEDyZwK-ZoH_KMdRMMQGjL10i8/view?usp=sharing)
+[![Natural Language & AI-Powered SQL Query Generator](Screenshot 2025-02-22%140140.png)](https://drive.google.com/file/d/1qBdIHUEEDyZwK-ZoH_KMdRMMQGjL10i8/view?usp=sharing)
 
 
 There are many AI assistants available, but none truly met my needs, so I built Syra AI. I want to create an assistant so smart and interactive that it'll be the last one you ever need—I think this is it.
